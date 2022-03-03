@@ -76,6 +76,8 @@
 - <a href="https://github.com/glendasabinoo/cursojava-basico/tree/main/aula17">Aula 17 - loops: FOR;</a>
 <br>
 - <a href="https://github.com/glendasabinoo/cursojava-basico/tree/main/aula18">Aula 18 - BREAK e CONTINUE;</a>
+<br>
+- <a href="https://github.com/glendasabinoo/cursojava-basico/tree/main/aula19">Aula 19 - arrays;</a>
 
 
 <h2>### MIT LICENSE</h2>
