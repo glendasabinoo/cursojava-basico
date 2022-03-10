@@ -78,6 +78,8 @@
 - <a href="https://github.com/glendasabinoo/cursojava-basico/tree/main/aula18">Aula 18 - BREAK e CONTINUE;</a>
 <br>
 - <a href="https://github.com/glendasabinoo/cursojava-basico/tree/main/aula19">Aula 19 - arrays;</a>
+<br>
+- <a href="https://github.com/glendasabinoo/cursojava-basico/tree/main/aula20">Aula 20 - matrizes;</a>
 
 
 <h2>### MIT LICENSE</h2>
